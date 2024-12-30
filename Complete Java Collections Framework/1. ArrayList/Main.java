@@ -1,24 +1,40 @@
-import java.util.*;
+// import java.util.*;
 
-public class Main {
-    public static void main(String[] args) {
-        ArrayList<Integer> list = new ArrayList<>();
-        list.add(1);
-        list.add(5);
-        list.add(80);
+// public class Main {
+//     public static void main(String[] args) {
+//         ArrayList<Integer> list = new ArrayList<>();
+//         list.add(1);
+//         list.add(5);
+//         list.add(80);
         
-        System.out.println(list.get(2));
-        System.out.println(list.size());
-        for(int i=0; i<list.size(); i++) {
-            System.out.print(list.get(i) + " ");
-        }
-    }
-}
+//         System.out.println(list.get(2));
+//         System.out.println(list.size());
+
+//         // list.remove(2);  // it will remove 2nd occurrences
+//         // list.add(2, 50);  // it will change 2nd occurrences, and create a new occurrences
+//         // list.set(2, 50);  // it will replace 2nd occurrences
+
+//         for(int i=0; i<list.size(); i++) {
+//             System.out.print(list.get(i) + " ");
+//         }
+
+//         // for(int x : list) {
+//         //     System.out.print(x);
+//         // }
+
+//         System.out.println();
+
+//         System.out.println(list.contains(5));
+//         System.out.println(list.contains(50));
+//     }
+// }
 
 // output:
 // 80
 // 3
 // 1 5 80
+// true
+// false
 // ............................................................................................
 
 // ............................................................................................
@@ -44,5 +60,7 @@ public class Main {
 // ............................................................................................
 
 // ............................................................................................
+
 // ............................................................................................
+
 // ............................................................................................
