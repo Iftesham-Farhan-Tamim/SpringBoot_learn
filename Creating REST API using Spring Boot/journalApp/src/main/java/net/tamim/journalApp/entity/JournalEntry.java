@@ -1,0 +1,40 @@
+package net.tamim.journalApp.entity;
+
+public class JournalEntry {
+
+    private long id;
+
+    private String title;
+
+    private String content;
+
+    // Getter for id
+    public long getId() {
+        return id;
+    }
+
+    // Setter for id
+    public void setId(long id) {
+        this.id = id;
+    }
+
+    // Getter for title
+    public String getTitle() {
+        return title;
+    }
+
+    // Setter for title
+    public void setTitle(){
+        this.title = title;
+    }
+
+    // Getter for content
+    public String getContent() {
+        return content;
+    }
+
+    // Setter for content
+    public void setContent(String content) {
+        this.content = content;
+    }
+}

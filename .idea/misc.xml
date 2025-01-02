@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Creating REST API using Spring Boot/myFirstProject/pom.xml" />
+        <option value="$PROJECT_DIR$/Structure of Spring Boot Application/myFirstProject/pom.xml" />
+        <option value="$PROJECT_DIR$/@SpringBootApplication Internal Working | IOC Container &amp; Dependency Injection in Spring Boot/myFirstProject/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK" />
+</project>
