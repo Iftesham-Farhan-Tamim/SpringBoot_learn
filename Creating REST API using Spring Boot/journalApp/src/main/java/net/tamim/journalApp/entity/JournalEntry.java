@@ -38,3 +38,4 @@ public class JournalEntry {
         this.content = content;
     }
 }
+
